@@ -1,0 +1,8 @@
+*title THROW. MARIA. OVERBOARD.
+*author MoyTW
+
+*scene_list
+  ch1_intro
+
+
+*finish

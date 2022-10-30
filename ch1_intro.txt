@@ -1,0 +1,329 @@
+Now the sun sets on Constantinople, and the skies and seas are reddened with the fading light. You turn your head to out through the window. The manor of Demetrios is a fine one, high up on the Second Hill, from which the one can witness all the grandest of the city's wonders - Hagia Sophia, the grandest church in the world; the Hippodrome, whose charioteers are second to none; the Great Palace, where the Emperor sits in state. It's a beautiful city, rich and powerful too, and the view is wonderful. Still, if you were not compelled by your business dealings with Demetrios you might rather head home than sit longer at his table. These parties are sometimes necessary, but always stressful.
+
+"Peter, dear captain, my dear friend," says Demetrios, and you turn your head back towards the table, "will your stay at my party now end? The sun falls in the sky; to take your leave none could decry." You glance around the table. The guests are nodding, smiling. They are all rich and learned, with good education and honeyed tongues. There merchants draped in cloth and woman with intricate veils, scholars sitting straight, Imperial administrators proudly sporting their badges of office. There's even a senator!
+
+Despite his offer, leaving now would be inappropriate, especially among strangers of high rank.
+
+*page_break Demur.
+
+"No," you say, "it is a wonderful party, though I fear my rough manners are not worthy of it."
+
+"I fear that your fear is baseless," he laughs, "for I could hardly consider you tasteless! Might then you speak a few words to our table, give us some poetry, tell a fable? Then your anxiety might be assuaged, and I promise you we will not be outraged; the value of a man is not in his words, but in the eyes of God and the size of his herds." Chuckles follow his slightly sacreligious joke, and you can see somber nods from about the table.
+
+It's also a lie. If you mess up too badly, these people will absolutely judge you for it. They'll give you some latitude for being unlearned, and of course Demetrios' good word will be enough for some of them, but if you make a total idiot out of yourself it's hard to come back from that. You summon up all your might and glance back out the window. Just a short composition should satisfy him, right?
+
+*page_break Think fast.
+
+Your skills of poetry are, at best, mediocre, and you haven't memorized any of the classics from which to quote. You take two minutes, as long as you dare. You raise your voice, as is appropriate for an orator and sit up straight.
+
+[i]Constantinople! with its sordid streets and triple walls, its cosmopoliatan elites and churches tall!
+*line_break
+Constantinople! my beloved birthplace where I seldom stroll, for my life instead is the sea's to control;
+*line_break
+From the Bosphorus I may sail to the Black Sea, see the whole of Med to the Pillars of Heracles,
+*line_break
+So I leave Constantinople's comforts to cross the sea, and trade its luxuries for the sailing ship,
+*line_break
+but I always long to return.[/i]
+
+*fake_choice
+  # That could have gone much better. Well, sometimes you write bad poetry.
+  # Considering the circumstances, that went very well!
+  # That won't win any prizes but at least I didn't embarrass myself.
+
+There is some polite applause, some measured praise. A careful woman comments that it is the most elegant composition by a sea-captain that she has ever heard, which raises some twitters.
+
+"Come, come!" cries your friend and primary financier, John of Tyre, "Make you less judgement, said our host himself; worth by God's grace, not titles on one's shelf. Listen," he says, shifting down into the common register, "I've known Peter as a captain for fifteen years, and in all that time, he has only once failed to make a shipment on time and as duly appointed. He is a skilled sailor and meticulous with his manifests, and if such workmanlike skills count for nothing in your eyes than think of the value of a ship's captain who, through all travails, will always make his shipments on time and without any theft or delay. There's more virtue in that than in many, I say."
+
+"Once only?" prompts Demetrios, intrigued.
+
+"Once only!" asserts John, "and that was due only to devilry, and no fault of his!"
+
+"Devilry," muses your host, rolling the world about his mouth. He casts an amused grin in your direction. "I trust your virtue friend Peter, much more than your skill in meter. I trust you to tell truth, since I see you've no missing tooth. Be it an exciting thing worth the telling, or will it the atomosphere be quelling?"
+
+*fake_choice
+  # "It's a tale of devilry and death. Not the kind of thing to tell at parties."
+  # "It's most appropriate for a lower sort of person than those gathered here, I think. More of a sailor's story than a literary epic."
+  # "My story's got all you could ask - a voice from the sky, child murder (that is, the murder of children), the wrath of supernatural beings. What more could you ask for?"
+    John interjects, waving his hands. "No, no," he says, "I do not know if these fine folk are in the mood for such a story. It is exciting," he says to Demetrios, "and the captain is a good storyteller, but it is as grim a story as he says."
+
+Your host cackles. "If you had called it was drab and dull, I would have thought the question null; but now I feel your protestations, and balk at your sudden cessation! If it be not the thing to tell, well that itself's the strongest sell! Why, tell your story, tell tell tell!"
+
+You can sense that there's no getting away from it. "Very well," you agree. "But be warned that it is not a happy tale."
+
+Demetrios waves a hand, batting away your weak objection, and sits back with an expectant air.
+
+You look around the table. All eyes are on you.
+
+*page_break Tell your story.
+
+"Six years ago, I set sail from Constantinople, contracted to carry various sundry goods out into the Peloponnese and ports in the Aegean Sea. All seemed well at first, and we cast off with little fanfare, but almost as soon as Constantinople vanished from our sight, the wind slackened. We fell dead in the water before we had even reached the Hellespont, and lay unmoving off the shore."
+
+You pause for effect. The guests stare at you, indifferent. So what, their faces seem to say. Of course; most of them have no inkling of sailing.
+
+"Ah," you say, "I see many of you here have brought their wives; so I will explain for their benefit some things of the nature of the sea. For a ship to sit still and unmoving is rare, for even if no wind fills its sails, the currents of the sea will often push it. Especially in the Propontis, the small sea between Constantinople and the Hellespont, this is rare, and the currents are known to sailors."
+
+"So we, having sailed this path many times before, knew that even without wind, the currents themselves should have borne us forward. At first, we wondered if we had somehow found a new, unknown current which held us in place, but being only just out of sight of Constantinople, we saw many ships coming and going and passing close by us with sails filled, some close enough that, if any current were holding us still, they too would have been caught and slowed. But dozens of ships passed us by, unbothered by whatever held us in place."
+
+"At first, we merely shrugged and decided to wait for the wind to return, for even were it a secretive current, our sails would carry us through. Yet not even a breeze came. This silent sea persisted for three days and three nights, and we were running down our supplies, with no end in sight."
+
+"The crew grew restless. On the third day, I brought up my first mate, Theodoros, and we again consulted on our strange situation. We settled on a course of action to rescue ourselves."
+
+*fake_choice
+  # "We decided to wait further, and see if the wind would pick up, as there was precious little else we could do."
+    "This lasted for another day, and another day after that, and the crew became restless and combative, as one might expect after being trapped by some strange force."
+
+    "Worse even was that other ships would pass us by, their sails full, making good headway, while we were trapped in stillness."
+
+    "On the morning of the sixth day, I heard the voice."
+
+  # "We decided that we would attempt to kedge the ship towards the shore, in hopes that it would pull us out of whatever we were caught in."
+    "To kedge a ship is to put a light anchor onto a rowboat, row the boat out from the ship, and drop the anchor. Then the men on the ship pull up towards the anchor, thereby pulling the ship forward. It is slow, exhausting, and dangerous, and to kedge all the way towards shore would be an outrageous suggestion."
+
+    "We merely hoped that we might somehow find a friendly current - but it was not to be, for once the anchor was dropped, its weight increased a hundredfold, and we could not pull it back up again!"
+
+    "Our situation was worse now, for not only were we kept in still seas by some mysterious force, but we found ourselves unable to lift our anchor!"
+
+    "Of course, we could cut it, but now it was clear to us that this was no natural happening. That was when I heard the voice."
+
+  # "We decided to pray to God for guidance, since such a strange thing as this was plainly beyond the comprehension of man."
+    "We prayed together for a time, and then, when no guidance or change appeared in our situation, separately. This, too, failed. We went on until evening, when we retired, and all the crew prayed too."
+    
+    "Then, when I woke the next morning and went up on the deck, I heard the voice."
+
+*page_break "'THROW. MARIA. OVERBOARD.'"
+
+"It came from nowhere and everywhere, all at once, firm, stern, and cross. I threw my gaze wildly around the ship, but nobody else seemed to have heard it, for the crew's unhappy grousing was the same as before."
+
+"I pressed my hands together in supplication and asked the only question I could."
+
+*fake_choice
+  #"Are you an angel or a demon?"
+  #"Who is Maria?"
+  #"Is there no other way?"
+"Yet the only answer I received was this: 'THROW. MARIA. OVERBOARD.'"
+
+"'Will you not answer me?' I asked, and only silence answered."
+
+"Now, for those in the crowd who are not familiar with the business of sailing, captains sometimes do not know all who are aboard. Ships will often take on passengers as they move between ports, and the name is less important than money, to say nothing of stowaways! I knew of no Maria, but that of course did not mean there was no Maria."
+
+*fake_choice
+  # "I had my first mate gather up all the woman on the ship and question them, in order to find this Maria."
+    "When Theodoros asked me why, I simply said that I had prayed and heard that Maria was the cause of our troubles. He nodded, and conducted the search without further complaint."
+    
+    "Soon afterwards, Theodoros brought to me a tall, dignified woman with her hair properly covered. 'I am Maria,' she said."
+
+  # "So, I simply stood on the deck of the ship and yelled, 'Maria, I must speak with you!' as loud as I could."
+    "Almost immediately, a tall woman with her hair properly covered came up to me, and said to me, 'I am Maria. What business do you have with me?'"
+    
+    "Theodoros came up to me too, curious as to my shouting."
+
+*choice
+  # "I told her that I had heard a voice from Heaven which had commanded me to throw her overboard."
+    *goto marias_story
+  # "I told her that I had heard a voice from Hell which had commanded me to throw her overboard."
+    *goto marias_story
+  # "I told her that I had heard a voice from Heaven or Hell, I knew not which, which had commanded me to throw her overboard."
+    *goto marias_story
+  # "I brought her to the side of the ship, and without any warning seized her and threw her overboard."
+    *goto threw_her_overboard_immediately
+
+*label threw_her_overboard_immediately
+"It was a simple matter. I walked to the side of the ship, gesturing for her to follow me, and when she was close I seized her and, being strong from years of sailed, heaved her over the side. She shrieked as she fell, but a strange thing happened when she hit the water. Instead of sinking, a great vortex opened beneath her, and swallowed her as a beast swallows its prey."
+
+"There was a great outcry from Theodoros and the rest of my crew, for it appeared as if I had simply murdered a woman without cause. They made to pitch me overboard as well, but when I told them of the voice that I had heard, they quieted. Then, without warning, a breeze passed across the deck of the ship, turning swiftly into a strong wind, and our sails were again filled."
+
+"This proved my story true, and we were released, and continued on our journey."
+
+You look at the audience, whose main reaction appears to be incredulity.
+
+*page_break There's a short silence.
+
+A woman speaks up. "Hold on," she says, "that's it?"
+
+"That's it," you say.
+
+"You just threw her overboard and everything worked out?"
+
+"So I did."
+
+"So," she asks, a skeptical look on her face, "why did having her aboard stop your ship, and why did throwing her off fix it?"
+
+"She was a sinner," you say. "Her name was taken down when she boarded and paid, and after the journey I made inquiry back at Constantinople. It turned out that she had had a lover out of marriage, and on his promise had murdered her two children so she could be with him, but he spurned her and so she took to flight. So she brought her sin onto my ship, and by ridding it of her we were lightened."
+
+"And the voice? Was it angel or demon?"
+
+You laugh. "Who can know?"
+
+*page_break She's silent.
+
+"You know," she says, "I, for myself, would have at least tried to make sure it wasn't the devil, tricking me into sin. But all people are different, I suppose."
+
+*finish
+
+*label marias_story
+"At that, she paused, and sighed. 'Yes,' she told me, 'then I must be the cause of your troubles.'"
+
+"'Why do you say that?' I asked."
+
+"'I am a wicked woman,' she said, 'and I fear that I have caught the eye of the devil and cannot escape, despite my best efforts. Still! Know that if you throw me overboard, you will be a murderer! A murder is no less a murder for the sins of the victim, so save yourself and have mercy, I beg of you!'"
+
+"'What sins are you talking about?' I asked."
+
+"'I was in love,' she said, 'and in my foolish love I sinned greatly. My husband was an unhappy match from the beginning, and he beat me often, and so when my lover, who I thought was a good man, when my lover said that had I no children he would marry me, in my delusion I made myself childless of my two sons, and so committed the worst sin a mother could commit.'"
+
+*label worst_sin_choice
+*choice
+  *disable_reuse # "'You'll have to explain that one,' I said."
+    "'I never loved my sons,' she said, 'and I was glad to be rid of them, but without his promise I would never have dreamed of doing such a thing!'"
+    
+    "'Such a thing?'"
+    
+    "She pulled herself up and looked me in the eye. 'I murdered my two sons,' she said, in a voice clear and calm. 'The younger was two; the older was five. I murdered them and went to my lover, who was rightly horrified, and cast me out. So I made to leave Constantinople for a foreign shore. And here we are; and now my sins have caught up to me.'"
+    *goto worst_sin_choice
+  # "Sinner though she was, I was uneasy with murder. "'There must be another way,' I said. 'I will not throw her overboard while there is still hope.'"
+    *goto another_way
+  # "'I have heard enough,' I said, and heaved her off the side of the ship."
+    *goto overboard_2
+
+*label another_way
+"'Thank you,' she said, 'thank you.'"
+
+"Theodoros, having listened to all this, said, 'Peter, it's well and good to say that, but what else can we do? She's admitted to her sin, and be it angel or demon, whatever has held us in place won't be swayed by simply begging.'"
+
+*label admitted_choice
+*choice
+  # "'Perhaps we are all mistaken, and she is not the cause of our plight. Might we test it out with a rowboat?'"
+    "'Test it out?' asked Theodoros. 'Tell me what you are thinking.'"
+    
+    "'Perhaps we can lower her into a rowboat, and row about the ship. If the rowboat will not row, then we will know it is her, but if it will row, then it must not be her.'"
+    
+    "Theodoros laughed. 'Well we've already wasted enough time,' he said, 'another half hour is nothing at this point.'"
+    
+    "We did exactly that. First, I lowered myself in a rowboat, and rowed once around the ship, and confirmed that it was no current but rather the supernatural force which held us in place."
+    
+    "Then the crew bound a rope about Maria, and lowered her into the boat with me. Suddenly, though I felt no wind and the seas around the boat were calm, the sails of the ship began to fill, and it started to move!"
+    
+    "I rowed as hard as I could in pursuit, but nothing could budge the rowboat. Luckily for me, I am a beloved captain, and my ship did not desert me - but neither would they pull up the rowboat."
+    
+    "'We'll not have hear aboard!' shouted my crew. 'Captain,' they cried, 'you have just proved that she is the cause! Shove her overboard, and we'll take you back up!'"
+    
+    "I looked over at Maria, sitting in the rowboat with me. She was glum. 'It seems that I cannot escape,' she said."
+    
+    "Again boomed the voice, from everywhere and nowhere. 'THROW. MARIA. OVERBOARD.'"
+    
+    *label throw_overboard_choice
+    *choice
+      # "'Maria,' I said, 'I am sorry.'"
+        "'I understand,' she said. She stood up and faced away from me."
+        
+        "I pushed her, and she vanished into the sea."
+        
+        "There was no more trouble after that."
+        
+        You look at the audience. Their faces are somber. Not a single one questions your account.
+        
+        Eventually, Demetrios speaks. He applauds your storytelling, your affect, the pathos, and the party goes on.
+        *finish
+      # "'There must be another way!' I cried."
+        "From everywhere and nowhere: 'THROW. MARIA. OVERBOARD.'"
+        *goto throw_overboard_choice
+      # "'I will not murder you,' I said to her."
+        "'Perhaps,' she said, glumly, 'but captain, can you save me? The ship will not sail; the rowboat will not row. I am trapped, aren't I?'"
+        
+        "She looked out over the sea."
+        
+        "'Am I to die of thirst, out here on the sea? To die of exposure and cold when night comes? If you leave me water, will I starve and waste away? A sinner cannot escape Hell.'"
+        
+        "'Have you repented?' I asked."
+        
+        "'I do not deserve salvation,'" she said. She put one slender arm out over the side of the boat to touch the sea. "'Go,'" she told me, "have them throw down a rope and leave me here. You might not be willing to murder me but I fear you have no power to save me; though there is no difference to me perhaps there is to you. Clean your conscience, captain, and leave me here to die.'"
+        
+        *fake_choice
+          # "So I did."
+            "My crew threw down a rope. I climbed it, and returned to my ship. As soon as my feet were securely on deck, I turned back to look at Maria, and witnessed a great vortex dragging the rowboat down to the depths."
+            
+            "So ends the story."
+            
+            You look at the audience. Their faces are somber. Not a single one questions your account.
+            
+            Eventually, Demetrios speaks. He applauds your storytelling, your affect, the pathos, and the party goes on.
+            *finish
+  *disable_reuse # "'Have you repented of your sins?' I asked Maria. 'Perhaps this is happening because you did not repent?'"
+    "'Captain,' she told me, 'if it were so easy to escape one's sins, what would any sinner live in fear of? Of course I have, but perhaps I have not. What does it mean to repent? Well, if one counts speaking to a holy man as repentance then yes, I have. Yet am I repentant? Who can know. Not even I know. Captain, one cannot sin and merely say that one regrets it and have all washed clean. Matters are not so simple as that.'"
+    *goto admitted_choice
+  # "If it's her presence that is weighing down the ship, all we need do is get her off. We might row her to shore, and leave her there."
+    "Theodoros laughed. 'Well,' he said, 'trust our captain to come up with such an ingenious solution.'"
+    
+    "'Do not praise me too soon,' I said."
+    
+    "Indeed, the praise was premature. I went into the rowboat with Maria and a few other rowers, intending to convey her to the shore, though the shore was far enough that it would be an exhausting task, but once the rowboat was lowered into the water the wind sprung up and the sails of the ship filled!"
+    
+    "Luckily, my crew thinks highly of me, and so they did not desert us, but we soon discovered another trouble. No matter how hard we rowed, we could not move the rowboat. Whatever force had held the ship applied with equal strength to the rowboat."
+    
+    "So now the ship was freed, but we were trapped."
+    
+    "As soon as the situation became clear, the other three rowers confronted me. 'It was a good try, Captain,' said the chief rower, 'but we've got to toss her over. You can help or you can sit there, but we all agree - she's got to go over.'"
+    *choice
+      # "'No,' I said, 'we will not murder her. We'll call back the ship, and we can all climb back up, and leave her here in the rowboat.'"
+        "'Am I to die of thirst, out here on the sea?' asked Maria. 'To die of exposure and cold when night comes? If you leave me water, will I starve and waste away? A sinner cannot escape Hell.'"
+        
+        "I had no answer for her."
+        
+        "'I do not deserve salvation,'" she said. She put one slender arm out over the side of the boat to touch the sea. "'Go,'" she told me, "have them throw down a rope and leave me here. You might not be willing to murder me but I fear you have no power to save me; though there is no difference to me perhaps there is to you. Clean your conscience, captain, and leave me here to die.'"
+        *fake_choice
+          # "So we did."
+            "My crew threw down a rope. We climbed it, and returned to our ship. As soon as my feet were securely on deck, I turned back to look at Maria, and witnessed a great vortex dragging the rowboat down to the depths."
+            
+            "So ends the story."
+            
+            You look at the audience. Their faces are somber. Not a single one questions your account.
+            
+            Eventually, Demetrios speaks. He applauds your storytelling, your affect, the pathos, and the party goes on.
+            *finish
+      # "'I am sorry,'" I said to Maria.
+        "At that, Maria turned to all of us. 'I understand,'" she said, and stood up to face the sea.
+        
+        "Then the rowers pushed her, and she vanished into the water."
+        
+        "There was no more trouble after that."
+        
+        You look at the audience. Their faces are somber. Not a single one questions your account.
+        
+        Eventually, Demetrios speaks. He applauds your storytelling, your affect, the pathos, and the party goes on.
+        *finish
+      # "At that, I turned away."
+        "There was no more trouble after that."
+        
+        You look at the audience. Their faces are somber. Not a single one questions your account.
+        
+        Eventually, Demetrios speaks. He applauds your storytelling, your affect, the pathos, and the party goes on.
+        *finish
+  *disable_reuse # "'I will pray for guidance,' I said, 'and perhaps some new revelation will come.'"
+    "So I did. I commanded the crew to pray, as well."
+    
+    "The only answer came when I finished my prayers and returned to the deck. That voice again, impatient and commanding. 'THROW. MARIA. OVERBOARD.'"
+    *goto admitted_choice
+
+*label overboard_2
+"If she had not admitted to the murder of her two children, Theodoros and my crew might have revolted at this, but since she'd confessed to double murder, double murder of her own sons, small children both, they made no objection, especially given that it had been divinely commanded."
+
+"She shrieked as she fell, but a strange thing happened when she hit the water. Instead of sinking, a great vortex opened beneath her, and swallowed her as a beast swallows its prey. Then, as soon as she vanished, the winds sprung up and bore us towards the Hellespont, and the rest of the trip was uneventful."
+
+You look at the audience, whose main reaction appears to be incredulity.
+
+*page_break There's a short silence.
+
+Demetrios bursts out in laughter. He leans over and claps you on the shoulder. "Peter, Peter," he says, his tone suddenly jocular and vulgar, "that's a helluva story! Is it real, Peter?"
+
+"It's real," you say.
+
+"Hell!" he exclaims, sitting back. "Right, see," he says, gesturing to the table, "I believe him! So what's the moral, huh? Don't kill your baby kids? Throw strange women overboard? Always listen to strange voices?"
+
+You shrug. "I don't know," you say. "I don't know. It was just something that happened to me." For how much you've retold the story, you haven't really thought about it, much, to be honest. Or maybe you'd avoided thinking about it.
+
+What…does it mean? To you?
+
+"Well," says Demetrios, "it's a hell of a story." A chorus of accolades follow from the other guests, and the conversation moves on to other topics.
+
+*finish
